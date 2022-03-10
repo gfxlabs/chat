@@ -1,4 +1,14 @@
 # MongoDB Database Schema
+- [MongoDB Database Schema](#mongodb-database-schema)
+  * [Database `tinode`](#database-tinode)
+    + [Table `users`](#table-users)
+    + [Table `auth`](#table-auth)
+    + [Table `topics`](#table-topics)
+    + [Table `subscriptions`](#table-subscriptions)
+    + [Table `messages`](#table-messages)
+    + [Table `dellog`](#table-dellog)
+    + [Table `credentials`](#table-credentials)
+    + [Table `fileuploads`](#table-fileuploads)
 
 ## Database `tinode`
 
